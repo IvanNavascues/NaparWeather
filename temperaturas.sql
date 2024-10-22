@@ -1,0 +1,1 @@
+INSERT INTO aaee_34.temperatura (`IDEstacion`, `IDFecha`, `tempMaxima`, `tempMedia`, `tempMinima`) VALUES 
